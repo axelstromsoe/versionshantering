@@ -12,4 +12,4 @@ I andra delen av uppgiften ska man skapa ett remote repository på Github med ti
 
 Man ska även svar på följande fråga: "*Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?*"
 
-Svar: git clone# versionshantering
+Svar: git clone
